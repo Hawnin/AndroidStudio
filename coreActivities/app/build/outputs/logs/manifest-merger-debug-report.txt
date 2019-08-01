@@ -1,0 +1,158 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1692aa0332255020cbbf6e7f7fcd4036/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/146c30ae3cfdad60c0a36b61f524aad9/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/bf6dc524be629d1da3808a1c3a7a864a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/7a90e016ed0e452e7eeedaba916f52c1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/e352e8d1bbae269985146f31ea4911c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1f4e6a9ee5eb0bc96d801fe6b383f9f4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/e1c3bc6a22ab6cf017956e082283289c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/100a72ed9f671c56a086ab7a7bfddb13/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a15b172de0a54d287001921e826d4a10/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/ce1745ea3fe4183dfafac713960313ac/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a1d2d401dccffeb5b576bf9be3542467/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a6110f7f552364f941c29a5085068bf7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/04183efb6c2a02f7d0cbc61c41cf14f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/469ab7427f9cef363f62fd735adbc9a6/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/b5707630f2f375c1e97af308c4240ac7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/11b971431543b8f3b6da20dd21ce578b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/0c0dec333f33a210c10f0d004d301072/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/894b1b2281c7eea5d4d4977aa4070523/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/3af0a4084e9a77102a86146e5e75751a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/77f92ff4297df788bc4a1b8ab386762c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/af88539a34fcf3934a99ba712f2204c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/c20e919dc2105727d7b1c1f861599c1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/d6c04bf7e466a32ce771a7d3016e496f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/83fceee3e75ec7bff33b19b45c18b889/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/10137b7f7443e22d14b63536e91c477b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/aceffe61c0c9c93e76ea7e6c5d57bef9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1852be1cc84757c9bb968fab1ad8153b/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/146c30ae3cfdad60c0a36b61f524aad9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/146c30ae3cfdad60c0a36b61f524aad9/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/11b971431543b8f3b6da20dd21ce578b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/11b971431543b8f3b6da20dd21ce578b/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/0c0dec333f33a210c10f0d004d301072/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/0c0dec333f33a210c10f0d004d301072/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/11b971431543b8f3b6da20dd21ce578b/AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.coreactivities.ReadTextActivity
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:12:9-63
+	android:name
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:12:19-51
+activity#com.example.coreactivities.MainActivity
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1692aa0332255020cbbf6e7f7fcd4036/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1692aa0332255020cbbf6e7f7fcd4036/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/146c30ae3cfdad60c0a36b61f524aad9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/146c30ae3cfdad60c0a36b61f524aad9/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/bf6dc524be629d1da3808a1c3a7a864a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/bf6dc524be629d1da3808a1c3a7a864a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/7a90e016ed0e452e7eeedaba916f52c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/7a90e016ed0e452e7eeedaba916f52c1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/e352e8d1bbae269985146f31ea4911c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/e352e8d1bbae269985146f31ea4911c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1f4e6a9ee5eb0bc96d801fe6b383f9f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1f4e6a9ee5eb0bc96d801fe6b383f9f4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/e1c3bc6a22ab6cf017956e082283289c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/e1c3bc6a22ab6cf017956e082283289c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/100a72ed9f671c56a086ab7a7bfddb13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/100a72ed9f671c56a086ab7a7bfddb13/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a15b172de0a54d287001921e826d4a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a15b172de0a54d287001921e826d4a10/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/ce1745ea3fe4183dfafac713960313ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/ce1745ea3fe4183dfafac713960313ac/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a1d2d401dccffeb5b576bf9be3542467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a1d2d401dccffeb5b576bf9be3542467/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a6110f7f552364f941c29a5085068bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/a6110f7f552364f941c29a5085068bf7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/04183efb6c2a02f7d0cbc61c41cf14f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/04183efb6c2a02f7d0cbc61c41cf14f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/469ab7427f9cef363f62fd735adbc9a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/469ab7427f9cef363f62fd735adbc9a6/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/b5707630f2f375c1e97af308c4240ac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/b5707630f2f375c1e97af308c4240ac7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/11b971431543b8f3b6da20dd21ce578b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/11b971431543b8f3b6da20dd21ce578b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/0c0dec333f33a210c10f0d004d301072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/0c0dec333f33a210c10f0d004d301072/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/894b1b2281c7eea5d4d4977aa4070523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/894b1b2281c7eea5d4d4977aa4070523/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/3af0a4084e9a77102a86146e5e75751a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/3af0a4084e9a77102a86146e5e75751a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/77f92ff4297df788bc4a1b8ab386762c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/77f92ff4297df788bc4a1b8ab386762c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/af88539a34fcf3934a99ba712f2204c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/af88539a34fcf3934a99ba712f2204c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/c20e919dc2105727d7b1c1f861599c1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/c20e919dc2105727d7b1c1f861599c1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/d6c04bf7e466a32ce771a7d3016e496f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/d6c04bf7e466a32ce771a7d3016e496f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/83fceee3e75ec7bff33b19b45c18b889/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/83fceee3e75ec7bff33b19b45c18b889/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/10137b7f7443e22d14b63536e91c477b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/10137b7f7443e22d14b63536e91c477b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/aceffe61c0c9c93e76ea7e6c5d57bef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/aceffe61c0c9c93e76ea7e6c5d57bef9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1852be1cc84757c9bb968fab1ad8153b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/hawnin/.gradle/caches/transforms-2/files-2.1/1852be1cc84757c9bb968fab1ad8153b/AndroidManifest.xml:20:5-44
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		ADDED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/hawnin/AndroidStudioProjects/coreActivities/app/src/main/AndroidManifest.xml
