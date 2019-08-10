@@ -8,6 +8,7 @@ import androidx.fragment.app.Fragment;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 
 
 /**
@@ -15,6 +16,7 @@ import android.view.ViewGroup;
  */
 public class PrimaryFragment extends Fragment {
 
+    private Button button;
 
     public PrimaryFragment() {
         // Required empty public constructor
@@ -25,7 +27,15 @@ public class PrimaryFragment extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_primary, container, false);
+        View view= inflater.inflate(R.layout.fragment_primary, container, false);
+        button=view.findViewById(R.id.primary_fragment_button);
+        button.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                MainActivity.fragmentManager.beginTransaction().replace(R.id.fragment_container,new SecondaryFragment(),null ).commit();
+            }
+        });
+        return view;
     }
 
 }
